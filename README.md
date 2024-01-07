@@ -56,7 +56,7 @@ D: 60% <= Average Percentage < 70%
 E: 50% <= Average Percentage < 60%
 F: Average Percentage < 50%
 
-##Task 3 : ATM Interface
+## Task 3 : ATM Interface
 
 Welcome to the ATM Interface program! This program simulates a simple ATM interface, allowing users to perform transactions such as checking balance, depositing, and withdrawing funds.
 
@@ -80,7 +80,7 @@ Welcome to the ATM Interface program! This program simulates a simple ATM interf
 
 4.Exit the program when done.
 
-##TASK 4: Quiz Application
+## TASK 4: Quiz Application
 
 This is a simple quiz application written in Java. It presents questions with multiple-choice options and tracks scores based on correct answers and time taken.
 
