@@ -1,4 +1,4 @@
-**CODSOFT Internship**
+## CODSOFT Internship
 
 ## Task 1: Number Guessing Game
 
